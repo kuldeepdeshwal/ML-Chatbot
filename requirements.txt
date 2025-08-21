@@ -1,0 +1,9 @@
+nltk==3.7
+tensorflow==2.10.0
+scikit-learn==1.1.3
+spacy==3.4.1
+numpy==1.23.3
+pandas==1.5.1
+flask==2.2.2  # If you're using Flask for a web interface
+cryptography==38.0.3  # If you're implementing encryption
+
